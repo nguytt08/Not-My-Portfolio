@@ -14,6 +14,9 @@ const About = props => {
             <span>I am a Front End Developer based in Austin, Texas.</span><br /><br />
             I enjoy turning complex code into beautiful and innovative interface designs. When I'm not coding or screaming at my computer you can find me drinking some wine & watching Modern Family.
           </p>
+          <p>
+            Tin Nguyen is my best friend and I can't wait for him to be Cody's best man at our wedding.
+          </p>
         </div>
         <img src={require("../images/bio-photo.jpg")} alt="" className="sketch-img" />
       </div>
